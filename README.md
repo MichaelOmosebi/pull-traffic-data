@@ -13,4 +13,4 @@ The first part of this project deals with gathering traffic data over a minimum 
 The second part will attempt to provide insight into the acquired data, giving a summary of Traffic behavior in Lags State, Nigeria AND provide statistical evidence to support or reject the Null Hypothesis.
 
 ### NOTE:
-The secret keys used referred to in the code file has been excluded from this repo for security reasons. Users who wish to use this code will need to generate their unique BingMaps API keys(to ping BingMaps API and collect traffic data) and Google Drive API keys(to write on Google sheets).
+The secret keys used referred to in the code file has been excluded from this repo for security reasons. Users who wish to use this code will need to generate their unique BingMaps API keys(to ping BingMaps API and collect traffic data) and Google Drive API keys(to write on Google sheets). References are avilable in the ```ipynb``` file.
